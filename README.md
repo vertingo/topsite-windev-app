@@ -5,7 +5,7 @@
 
 # WinDev(https://www.pcsoft.fr/) Illustrations de l'applications TopSiteApp pour ne rien manquer des dernières news VertinGo Website en un clic depuis votre bureau!
 L'exécutable de l'installateur disponible à l'adresse suivante: 
-https://www.youtube.com/redirect?q=http%3A%2F%2Fvertin-go.com%2FFonctions_Annexes%2Fannexes%2Fpdt-page-de-telechargement%2Finstall%2Fdownload.php%3Ffichier%3DInstall_Ex%25C3%25A9cutable_Windows_32_bits&redir_token=fqCmoCTcS7gYmSPXDn2hu-zRMxl8MTU0OTA1NTc3M0AxNTQ4OTY5Mzcz&v=lRr4CBR5vDU&event=video_description
+http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/install/download.php?fichier=Install_Ex%C3%A9cutable_Windows_32_bits
 
 
 <p align="center">
